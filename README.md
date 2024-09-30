@@ -1,2 +1,3 @@
-# Проект "Readme"
-Описание - https://youtu.be/NexC8QPTNpM  
+### Блог Readme
+- native PHP
+- функциональное программирование
